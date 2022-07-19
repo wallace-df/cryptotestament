@@ -5,3 +5,4 @@ Live dApp: https://cryptotestament.io/
 
 
 ![DivBox](/cryptotestament-1.png?raw=true "CryptoTestament")
+![DivBox](/cryptotestament-2.png?raw=true "CryptoTestament")
